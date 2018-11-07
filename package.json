@@ -1,0 +1,17 @@
+{
+  "name": "wiard-api",
+  "version": "1.0.0",
+  "description": "API designed and implemented for Dave Wiard's personal use.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Wiard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^2.2.19",
+    "mongoose": "^3.6.13",
+    "body-parser": "^1.0.1"
+  }
+}
